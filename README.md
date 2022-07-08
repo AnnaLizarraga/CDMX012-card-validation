@@ -1,5 +1,5 @@
-- [Español](#-Índice)
-- [English](#-Index)
+- [Español](#-Validación-de-tarjeta-prepago-Spotify-Premium.)
+- [English](#-Card-validation-Spotify-Premium-prepaid.)
 
 ***
 
@@ -111,9 +111,10 @@ Fig 4.Prototipo pantalla alerta / hovers / reverso tarjeta
 
 
 ***
-# Card validation | Spotify Premium prepaid.
+# Card validation Spotify Premium prepaid.
 
 ## Index
+
 - [1. Project Summary](#1-Project-Summary)
 - [2. Project Tech Skills](#2-Tech-Skills-project)
 - [3. Planning](#3-Planning)
@@ -160,7 +161,7 @@ This algorithm is simple. We obtain the reverse of the number to verify (which o
 
 This project was done with SCRUM agile methodologies in 2 sprints of 1 week in which user stories were worked.
 
-You can see the planning [here](https://github.com/AnnaLizarraga/CardValidation-Spotify/projects/1?fullscreen=true)
+You can see the planning [here](https://github.com/AnnaLizarraga/CardValidation-Spotify/projects/2?fullscreen=true)
 
 ### User Story 1: Validate Card.
 
