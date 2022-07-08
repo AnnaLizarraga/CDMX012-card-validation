@@ -4,7 +4,7 @@
 <!-- - [English](##-Índice) -->
 
 
-![Shows CRUD functionalities]https://raw.githubusercontent.com/AnnaLizarraga/CardValidation-Spotify/main/src/recursos%20v/Prototipo/gif_Card_Validation.gif)
+![Shows CRUD functionalities](https://raw.githubusercontent.com/AnnaLizarraga/CardValidation-Spotify/main/src/recursos%20v/Prototipo/gif_Card_Validation.gif)
 
 Deploy del proyecto:
 En Proceso…
